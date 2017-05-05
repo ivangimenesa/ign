@@ -2,9 +2,8 @@
 height: 100%;  background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
 
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
-flex-wrap:wrap; height:650px; clear:both; 
- 
-background-size:1440px; background-repeat:no-repeat; color:white; }
+ flex-wrap:wrap; height:650px; clear:both; 
+background-size:1440px; background-repeat:no-repeat; color:black; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -20,7 +19,7 @@ background-size:1440px; background-repeat:no-repeat; color:white; }
 }
 
 .description {
-    color: grey;
+    color: #272727;
     font-size: 18px;
     margin:5px 0px;
 }
