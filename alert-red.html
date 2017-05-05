@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style>
+
+    /* The alert message box */
+.mensagem-alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+    font-family: arial;
+}
+
+/* The close button */
+.mensage-close {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.mensage-close:hover {
+    color: black;
+}
+        
+</style>
+    
+    
+</head>
+<body>
+
+<div class="mensagem-alert">
+  <span class="mensage-close" onclick="this.parentElement.style.display='none';">&times;</span> 
+  Antes de seguir com a compra, tenha total certeza que deseja possuir o modelo.
+</div>
+
+</body>
+</html>
