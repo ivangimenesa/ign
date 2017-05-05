@@ -1,7 +1,7 @@
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
-flex-wrap:wrap; min-height:700px; clear:both; 
+flex-wrap:wrap; height:650px; clear:both; 
 background:url(https://2.bp.blogspot.com/-ADX1A1QcePY/WQy7R8jF-EI/AAAAAAAAAK4/xQgkultriF8aYVYhaHIGPPfDe5UjurcAwCLcB/s1600/Need%2BCode%2BBy%2BPCbots.png); 
-background-size:100%; background-repeat:no-repeat;}
+background-size:100%; background-repeat:no-repeat; color:white; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
