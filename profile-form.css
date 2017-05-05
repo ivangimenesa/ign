@@ -26,3 +26,51 @@ background-size:1440px; background-repeat:no-repeat; color:white; }
 }
         
 .container-profile h1{ border-bottom: 1px solid #d3d3d3; }
+
+/*BUTTONS*/
+.Open-button{ border-radius: 4px; background: #1f93a3; color:white; border:0px; font-family: arial; transition: all .4s; display: inline-block; cursor: pointer; margin: 2px; }
+
+.button-close{  background: #C70D0D; color:white; padding: 15px; float:right;  font-family: arial; margin-top: -58px; }
+
+.display-container{ background: #BAB9B9; color: white; padding: 10px;  font-family: arial; }
+
+.fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
+
+@-webkit-keyframes fade { from {opacity: .4} to {opacity: 1} }
+
+@keyframes fade { from {opacity: .4}  to {opacity: 1} }
+            
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+  width: 200px;
+  transition: all 0.5s;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '✉';
+  position: absolute;
+  opacity: 0;
+  top: -5px;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
