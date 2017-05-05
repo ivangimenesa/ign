@@ -1,11 +1,13 @@
     /* The alert message box */
 .mensagem-alert {
     padding: 20px;
-    background-color: #f44336; /* Red */
     color: white;
     margin-bottom: 15px;
     font-family: arial;
 }
+/* Buttons color */
+.alert-buy{ background-color: #f44336; }
+.alert-contact{ background-color:#147BC5; }
 
 /* The close button */
 .mensage-close {
