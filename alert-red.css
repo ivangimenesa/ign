@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-    <style>
-
     /* The alert message box */
 .mensagem-alert {
     padding: 20px;
@@ -29,17 +23,3 @@
 .mensage-close:hover {
     color: black;
 }
-        
-</style>
-    
-    
-</head>
-<body>
-
-<div class="mensagem-alert">
-  <span class="mensage-close" onclick="this.parentElement.style.display='none';">&times;</span> 
-  Antes de seguir com a compra, tenha total certeza que deseja possuir o modelo.
-</div>
-
-</body>
-</html>
