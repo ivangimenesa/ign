@@ -32,7 +32,7 @@ clear:both; background-attachment:fixed; background-position: center; background
 
 .Open-button{ border-radius: 4px; background: #1f93a3; color:white; border:0px; font-family: arial; transition: all .4s; display: inline-block; cursor: pointer; margin: 2px; }
 
-.button-close{  background: #C70D0D; color:white; padding: 15px; float:right; margin-right:-5px; font-family: arial; margin-top: -58px; }
+.button-close{  background: #C70D0D; color:white; padding: 15px; float:right; margin-right:-10px; font-family: arial; margin-top: -58px; }
 
 .fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
 
