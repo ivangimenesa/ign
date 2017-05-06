@@ -1,8 +1,8 @@
 .profile-background{ background:url(https://1.bp.blogspot.com/-J3RJpVaLv8Y/WQzA9X_zB8I/AAAAAAAAALI/2CXAT_fY7jYfsyvaV4V0C-aIIQhcjIfpgCLcB/s1600/Firewatch-Forest.jpg);
-height:100%;  background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
+height:100%; clear:both; background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
 
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
- flex-wrap:wrap; clear:both; background-repeat:no-repeat; color:black; }
+ flex-wrap:wrap; height:100%; background-repeat:no-repeat; color:black; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
