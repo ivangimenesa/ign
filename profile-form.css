@@ -28,7 +28,7 @@ clear:both; background-attachment:fixed; background-position: center; background
 
 /*BUTTONS*/
 
-.display-container{ background: #BAB9B9; color: white; position:absolute; top:0px; left:0px; margin-top:0px; padding: 10px;  font-family: arial; }
+.display-container{ background: #BAB9B9; color: white; position:absolute; padding: 10px;  font-family: arial; }
 
 .Open-button{ border-radius: 4px; background: #1f93a3; color:white; border:0px; font-family: arial; transition: all .4s; display: inline-block; cursor: pointer; margin: 2px; }
 
