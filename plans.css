@@ -1,9 +1,11 @@
+.description-nr{ margin:0px; height:710px; align-items:center; display:flex; justify-content:center; }
+
 table {
     border-collapse: collapse;
     width: 100%;
     font-family:arial;
     margin:0px 0px;
-    height:710px;
+    padding
 }
 
 th, td {
@@ -97,7 +99,3 @@ th {
   opacity: 1;
   right: 0;
 }
-    
-    
-
-.description-nr{ margin:10px; }
