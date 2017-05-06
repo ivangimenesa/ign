@@ -10,6 +10,7 @@ table {
 th, td {
     text-align: left;
     padding: 8px 2px;
+    max-width:230px;
 }
 
 tr:nth-child(even){background-color: #f2f2f2}
@@ -19,6 +20,7 @@ th {
     background-color: #1f93a3;
     color: white;
     border-left: 1px solid white;
+    max-width:230px;
 }
     
     /*DESCRIPTION DOMINIO*/
