@@ -3,7 +3,7 @@ body{ height:auto; }
 clear:both; background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
 
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
- flex-wrap:wrap; height:710px; background-repeat:no-repeat; color:black; }
+ flex-wrap:wrap; min-height:710px; background-repeat:no-repeat; color:black; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
