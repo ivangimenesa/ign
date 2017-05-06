@@ -31,7 +31,7 @@ background-size:1440px; background-repeat:no-repeat; color:black; }
 
 .button-close{  background: #C70D0D; color:white; padding: 15px; float:right;  font-family: arial; margin-top: -58px; }
 
-.display-container{ background: #BAB9B9; color: white; position:relative; padding: 10px;  font-family: arial; }
+.display-container{ background: #BAB9B9; color: white; position:static; top:0px; left:0px; margin-top:0px; padding: 10px;  font-family: arial; }
 
 .fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
 
