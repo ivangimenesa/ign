@@ -1,4 +1,4 @@
-.description-nr{ margin:0px; height:710px; align-items:center; display:flex; justify-content:center; }
+.description-nr{ margin:0px; height:710px; align-items:center; display:flex; justify-content:center; flex-wrap:wrap; }
 
 table {
     border-collapse: collapse;
