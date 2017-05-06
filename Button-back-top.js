@@ -15,6 +15,13 @@ function scrollFunction() {
     }
 }
 
+$(document).ready(function() {
+       $('#backtop').click(function(){ 
+          $('html, body').animate({scrollTop:0}, 'slow');
+      return false;
+         });
+     });
+
 // When the user clicks on the button, scroll to the top of the document
 function topFunction() {
     document.body.scrollTop = 0; // For Chrome, Safari and Opera 
