@@ -4,6 +4,7 @@
 background-image: url("https://2.bp.blogspot.com/-IgH09xMw8XU/WQ5meOd2qQI/AAAAAAAAAMw/Mqosv2Xz-x8_js5CtMCBS1oITxnv09WcgCLcB/s1600/phoca_thumb_l_nordmograph.com_wallpaper16.jpg");
     background-position: center;
     background-repeat: no-repeat;
+         background-attachment:fixed;
     background-size: cover; }
         .table-all h1{ text-shadow: 0px 1px 10px #272727;}
         .table{ width:100%; margin: 0px 5px; background-color:  white;}
