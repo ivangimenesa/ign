@@ -14,7 +14,7 @@ background-image: url("https://www.nordmograph.com/images/phocagallery/wallpaper
         
         /*DESCRIPTION DOMINIO*/
     a.description{
-  position:relative; 
+  position:initial; 
   color:#039;
   text-decoration:none;
   cursor:help; 
