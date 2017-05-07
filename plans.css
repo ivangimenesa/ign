@@ -1,5 +1,4 @@
-  
-        html, body{ height:100%; overflow-x: hidden; } *{margin: 0; padding: 0;}
+ html, body{ height:100%; overflow-x: hidden; } *{margin: 0; padding: 0;}
                 .table-all{ font-family: arial;
 background-image: url("https://www.nordmograph.com/images/phocagallery/wallpapers/thumbs/phoca_thumb_l_nordmograph.com_wallpaper16.jpg");
     background-position: center;
@@ -8,8 +7,8 @@ background-image: url("https://www.nordmograph.com/images/phocagallery/wallpaper
 
         .title-table{ color:white; padding:10px; font-weight:400; font-size:50px; border-bottom:1px solid #ccc;  }
         .table-all h2{ color:white; font-size: 15px; padding:10px 5px;  }
-        .table-content{ clear: both;  height: 710px; display: flex; justify-content: center; align-items: center; flex-direction: column; font-family: arial; }
-        .table{ width:100%; margin: 0px 5px; background-color:  white;}
+        .table-content{ clear: both;  height: 710px; display: flex; align-items: center; flex-direction: column; font-family: arial; }
+        .table{ width:90%; margin: 0px 5px; background-color:  white;}
 
         th{ padding:10px 5px; font-size:20px; background-color:#045AA1; color:white; }
         td{padding:10px 5px;}
