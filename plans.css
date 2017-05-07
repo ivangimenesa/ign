@@ -1,34 +1,19 @@
-.description-nr{ margin:0px; padding:10px; height:710px; align-items:center; display:flex; justify-content:center; flex-wrap:wrap; }
+ html, body{ height:100%; overflow-x: hidden; } *{margin: 0; padding: 0;}
+        
+        .table-all{ height: 710px; display: flex; justify-content: center; align-items: center; flex-direction: column; font-family: arial;
+background-image: url("https://2.bp.blogspot.com/-IgH09xMw8XU/WQ5meOd2qQI/AAAAAAAAAMw/Mqosv2Xz-x8_js5CtMCBS1oITxnv09WcgCLcB/s1600/phoca_thumb_l_nordmograph.com_wallpaper16.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; }
+        .table-all h1{ text-shadow: 0px 1px 10px #272727;}
+        .table{ width:100%; margin: 0px 5px; background-color:  white;}
 
-table {
-    border-collapse: collapse;
-    width: 100%;
-    font-family:arial;
-    margin:0px 0px;
-}
-
-th, td {
-    text-align: left;
-    padding: 8px 2px;
-    max-width:230px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
-
-th {
-    padding:15px 2px;
-    background-color: #1f93a3;
-    color: white;
-    border-left: 1px solid white;
-    max-width:230px;
-}
-    
-    /*DESCRIPTION DOMINIO*/
-    
-     a.description{
+        th{ padding:10px 5px; font-size:20px; background-color:#045AA1; color:white; }
+        td{padding:10px 5px;}
+        
+        /*DESCRIPTION DOMINIO*/
+    a.description{
   position:relative; 
-  font:12px arial, verdana, helvetica, sans-serif; 
-  padding:10px 5px;
   color:#039;
   text-decoration:none;
   cursor:help; 
@@ -55,48 +40,9 @@ th {
   color:#000;
   }
 
-                .Open-button{ border-radius: 4px; background: #1f93a3; color:white; padding: 10px; border:1px solid #1f93a3; font-family: arial; transition: all .4s; display: inline-block; font-size: 20px; cursor: pointer; margin: 2px; }
-
-            .button-close{  background: #C70D0D; color:white; padding: 15px; float:right;  font-family: arial; margin-top: -59px;}
-
-            .display-container{ background: #059B55; color: white; padding: 10px;  font-family: arial; }
-
-            .fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
-
-            @-webkit-keyframes fade { from {opacity: .4} to {opacity: 1} }
-
-            @keyframes fade { from {opacity: .4}  to {opacity: 1} }
-            
-.button {
-  display: inline-block;
-  border-radius: 4px;
-  text-align: center;
-  font-size: 28px;
-  width: 200px;
-  transition: all 0.5s;
-}
-
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
-}
-
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
+        /*BUTTONS*/
+.Open-button{ border-radius: 4px; background: #1f93a3; color:white; padding: 10px; border:1px solid #1f93a3; font-family: arial; transition: all .4s; display: inline-block; font-size: 15px; cursor: pointer; }
+        
+.fade { -webkit-animation-name: fade; -webkit-animation-duration: 2s; animation-name: fade; animation-duration: 2s; }
+@-webkit-keyframes fade { from {opacity: .4} to {opacity: 1} }
+@keyframes fade { from {opacity: .4}  to {opacity: 1} }
