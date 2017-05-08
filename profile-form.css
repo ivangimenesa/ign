@@ -1,6 +1,6 @@
-body{ height:auto; }
-.profile-background{ background:url(https://1.bp.blogspot.com/-J3RJpVaLv8Y/WQzA9X_zB8I/AAAAAAAAALI/2CXAT_fY7jYfsyvaV4V0C-aIIQhcjIfpgCLcB/s1600/Firewatch-Forest.jpg);
-clear:both; background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
+.profile-background{ background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5b/bc/11/5bbc11d7852485126c992135005efd9d.png");
+height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; 
+display:flex; flex-direcion:column; justify-content:center; align-items:center; color:white; }
 
 .profile-all{ max-width:1440px; margin:0px auto; display: flex; flex-direction: row; justify-content: space-around; align-items: center; 
  flex-wrap:wrap; min-height:710px; background-repeat:no-repeat; color:black; }
