@@ -1,10 +1,11 @@
-body{ height:100%; }
+html, body{ height:100%; }
 
-.profile-background{ background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5b/bc/11/5bbc11d7852485126c992135005efd9d.png");
-height: 100%; background-position: center; background-repeat: no-repeat; background-size: 100%; 
-display:flex; flex-direction:column; justify-content:center; align-items:center; color:white; }
+.profile-background{ 
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5b/bc/11/5bbc11d7852485126c992135005efd9d.png");
+height:100%; background-position: center; background-repeat: no-repeat; background-size:cover; display:flex; flex-direction:column; 
+justify-content:center; align-items:center; color:white; }
 
-.profile-all{ max-width:1440px; margin:0px auto; background-repeat:no-repeat; color:black; }
+.profile-all{ background-repeat:no-repeat; color:black; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
