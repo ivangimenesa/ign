@@ -1,3 +1,5 @@
+html, body{ height:100%; }
+
 .profile-background{ background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5b/bc/11/5bbc11d7852485126c992135005efd9d.png");
 height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; 
 display:flex; flex-direcion:column; justify-content:center; align-items:center; color:white; }
