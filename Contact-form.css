@@ -3,9 +3,7 @@
 
 .title-contact{ color:white; font-family:arial; font-weight:400%; margin:10px 0; font-size:50px; border-bottom:1px solid #ccc; }
 
-.contact-form{ width:95%; }
-
 .button-form{ border:none;display:inline-block; outline:0; padding:10px 16px; vertical-align:middle; overflow:hidden; 
 text-decoration:none; color:inherit; background-color:inherit; text-align:center; cursor:pointer; white-space:nowrap; }
 
-.box-input{ padding:8px; display:block; border:none; border-bottom:1px solid #ccc; width:90%; margin:15px 5px; width:98%; }
+.box-input{ padding:8px; display:block; border:none; border-bottom:1px solid #ccc; margin:15px 5px; width:95%; }
