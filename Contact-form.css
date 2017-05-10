@@ -1,13 +1,9 @@
-.form-container{ margin:0px 0px; height:710px; display:flex; flex-direction:column; justify-content:center; color:white; 
-background:url(https://3.bp.blogspot.com/-Ele5jsYOIqY/WQy43rOPz_I/AAAAAAAAAKs/1jjV12dARuQPpQ1tdX0ZKQiIRVdSomOjwCLcB/s1600/6995383b37b2d3b859ae480e698b8f1b.png); 
-background-attachment:fixed; background-position: center; background-repeat: no-repeat; background-size: cover; }
+.sidebar-all{ background-image:url(https://3.bp.blogspot.com/-Ele5jsYOIqY/WQy43rOPz_I/AAAAAAAAAKs/1jjV12dARuQPpQ1tdX0ZKQiIRVdSomOjwCLcB/s1600/6995383b37b2d3b859ae480e698b8f1b.png); background-size: cover; 
+ background-repeat: no-repeat; height: 100%; background-position: center; display:flex; justify-content:center; align-items:center; }
 
-.title-contact{ font-family:&quot;Segoe UI&quot;,Arial,sans-serif; font-weight:400; 
-margin:10px 0; font-size:50px; border-bottom:1px solid #ccc; }
+.title-contact{ font-family:&quot;Segoe UI&quot;,Arial,sans-serif; font-weight:400%; margin:10px 0; font-size:50px; border-bottom:1px solid #ccc; }
 
 .button-form{ border:none;display:inline-block; outline:0; padding:10px 16px; vertical-align:middle; overflow:hidden; 
 text-decoration:none; color:inherit; background-color:inherit;text-align:center; cursor:pointer; white-space:nowrap; }
 
 .box-input{ padding:8px; display:block; border:none; border-bottom:1px solid #ccc; width:100%; margin:15px 5px; width:98%; }
-
-.form-container{ padding:5px 16px; }
