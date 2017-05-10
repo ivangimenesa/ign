@@ -1,11 +1,4 @@
-html, body{ height:100%; }
-
-.profile-background{ 
-background-image: url("https://2.bp.blogspot.com/-s9Sz7NSbBSo/WRDyeOX-q_I/AAAAAAAAAOY/fd3GBAdHWco5zWe0ue2Udmz9cW6_2gbnwCLcB/s640/Water_mountains_landscapes_nature_snow_valley_rocks_switzerland_rivers_3840x2400.jpg");
-height:710px; background-position: center; background-repeat: no-repeat; background-size:cover; display:flex; flex-direction:column; 
-justify-content:center; align-items:center; color:white; }
-
-.profile-all{ background-repeat:no-repeat; color:black; }
+.profile-all{ font-family:arial; color:black; }
 
 .profile-content {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
