@@ -1,6 +1,8 @@
 .profile-all{ font-family:arial; color:black; }
 
 .profile-content {
+    background:#CFCFCF;
+    opacity:0.8;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
     margin: auto;
