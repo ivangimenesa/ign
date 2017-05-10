@@ -1,7 +1,5 @@
-                html, body{ height:100%; }
-    * { box-sizing: border-box; padding: 0; margin: 0px; }
-    
-    .buy-all{ background-image:url(http://cdn.pcwallart.com/images/lake-at-night-stars-wallpaper-4.jpg); background-size: cover; background-repeat: no-repeat; height: 100%; background-position: center; display:flex; flex-direction:column; align-items:center; justify-content:center;}
+    .table-all{  background-image:url(http://icreative.am/wp-content/uploads/2017/03/n12.jpg); background-size: cover; 
+     background-repeat: no-repeat; height: 100%; background-position: center; display:flex; justify-content:center; align-items:center; }
     
     .buy h1{  font-size:20px; text-align: center; margin:3px; font-family: arial;  color:white;  }
     .buy button { padding:10px 15px; font-family: arial; border:0px; color:white; }
