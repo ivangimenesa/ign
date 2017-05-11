@@ -1,14 +1,16 @@
 .image-content {
+  position:relative;
+    
 }
 
 .image-img {
   display: block;
-  height: auto;
+  width: 50%;
 }
 
 .overlay {
   position: absolute;
-  bottom: 50%;
+  bottom: 100%;
   left: 0;
   right: 0;
   background-color: #008CBA;
