@@ -1,6 +1,3 @@
-    * { box-sizing: border-box; padding: 0; margin: 0px; }
-    body, html{height:100%;}
-    
     .table-all{  background-image:url(http://1.bp.blogspot.com/-tPISB6xBVLk/Vk7nbVPjcnI/AAAAAAAAFlw/1iaKN7gJTNE/s1600/evie-frye-assassins-creed-syndicate-2560x1440.jpg); background-size: cover; 
      background-repeat: no-repeat; height: 100%; background-position: center; display:flex; justify-content:center; align-items:center; }
     
