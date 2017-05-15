@@ -1,4 +1,4 @@
-                .profile-content-all{background-image:url(https://2.bp.blogspot.com/-Jr2iNb3SjaI/WRMF6Z_baNI/AAAAAAAAAPA/WUJqRQJPmc0VPqNNLemRRwCDs3qlCOHSQCLcB/s1600/45209001-business-wallpaper.png); background-size: cover; background-repeat: no-repeat; height: 100%; background-position: center; display:flex; flex-direction:column; align-items:center; justify-content:center; }
+                .profile-content-all{ background-attachment:fixed; background-image:url(https://2.bp.blogspot.com/-Jr2iNb3SjaI/WRMF6Z_baNI/AAAAAAAAAPA/WUJqRQJPmc0VPqNNLemRRwCDs3qlCOHSQCLcB/s1600/45209001-business-wallpaper.png); background-size: cover; background-repeat: no-repeat; height: 100%; background-position: center; display:flex; flex-direction:column; align-items:center; justify-content:center; }
                 
                 .profile{ background-color:white; padding: 5px; transition: all .4s; border-radius: 5px; opacity: 0.9; display: flex; flex-direction: row; font-family: sans-serif; box-shadow: 1px 5px 10px #000;  }
                 
