@@ -1,4 +1,4 @@
-                .contact-all{background-image:url(http://www.zhongyaodqt.com/data/out/15/56754011-firewatch-wallpapers.png); background-size: cover; background-repeat: no-repeat; height: 100%; background-position: center; display:flex; flex-direction:column; justify-content:center; align-items: center; }
+                .contact-all{ background-attachment:fixed; background-image:url(http://www.zhongyaodqt.com/data/out/15/56754011-firewatch-wallpapers.png); background-size: cover; background-repeat: no-repeat; height: 100%; background-position: center; display:flex; flex-direction:column; justify-content:center; align-items: center; }
                 .contact-all{ color:white; font-family: arial; text-shadow: 0px 2px 5px #272727; font-size: 200%; }
                 .contact-all h1{ margin: 5px 0px; }
                 .contact-all input{ padding:5px; background: transparent; border:0px; border-bottom: 2px solid #1372E6; color: white;}
