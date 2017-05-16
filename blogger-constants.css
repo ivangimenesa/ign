@@ -1,5 +1,3 @@
-<!-- Constants -->
-
 <Variable name="damionRegular36" description="Damion Regular 36" type="font" default="400 36px Damion, cursive" hideEditor="true"  value="400 36px Damion, cursive"/>
 <Variable name="damionRegular62" description="Damion Regular 62" type="font" default="400 62px Damion, cursive" hideEditor="true"  value="400 62px Damion, cursive"/>
 <Variable name="playfairDisplayBlack28" description="Playfair Display Black 28" type="font" default="900 28px Playfair Display, serif" hideEditor="true"  value="900 28px Playfair Display, serif"/>
@@ -18,6 +16,14 @@
 <Variable name="startSide" description="Start side in blog language" type="automatic" default="left" hideEditor="true" />
 <Variable name="endSide" description="End side in blog language" type="automatic" default="right" hideEditor="true" />
 
+<Group description="Page Text">
+  <Variable name="body.text.font" description="Font"
+      type="font"
+      default="$(robotoNormal15)"  value="15px Roboto, sans-serif"/>
+  <Variable name="body.text.color" description="Color"
+      type="color"
+      default="#757575"  value="#757575"/>
+</Group>
 
 <Group description="Backgrounds">
   <Variable name="body.background.height" description="Background height"
@@ -41,7 +47,6 @@
       max="50px"
       default="0px"  value="0px"/>
 </Group>
-
 <Group description="Links">
   <Variable name="body.link.color" description="Link color"
       type="color"
@@ -259,5 +264,3 @@
       hideEditor="true"  value="#ffffff"/>
 </Group>
  */
-
-By:blogger
